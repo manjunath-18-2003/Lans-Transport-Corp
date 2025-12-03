@@ -1,83 +1,108 @@
- ##📄 Report Pages Overview
+## 📄 Report Pages Overview
 
-Below is a detailed overview of each page included in the **Lans Transport Corp Power BI Dashboard**.
+Below is a breakdown of each page included in the **Lans Transport Corp Power BI Dashboard**, explaining the purpose, visuals, and insights provided.
 
 ---
 
 ### **1️⃣ Overview Dashboard**
-Provides a high-level summary of essential transport KPIs.
+**Purpose:**  
+Provides a high-level snapshot of operations and business performance.
 
-**Key Insights**
-- Total trips and trip status
-- Fleet availability overview
-- Revenue, expenses, and profitability
-- Monthly trend analysis
+**Key Insights:**  
+- Total trips  
+- Completed vs pending trips  
+- Fleet availability  
+- Revenue, expenses, and profit summary  
+- Monthly performance trend
+
+**Visuals:**  
+KPI cards • Line chart • Summary tiles • Status indicators
 
 ---
 
 ### **2️⃣ Fleet Performance**
-Analyzes vehicle-wise operational efficiency.
+**Purpose:**  
+Analyze vehicle utilization and operational efficiency.
 
-**Key Insights**
-- Vehicle utilization rate
-- Fuel efficiency (km/l)
-- Maintenance frequency
-- Downtime hours
+**Key Insights:**  
+- Vehicle utilization (%)  
+- Fuel efficiency (km/l)  
+- Downtime hours  
+- Maintenance tracking
+
+**Visuals:**  
+Bar charts • KPI badges • Performance table • Efficiency indicators
 
 ---
 
 ### **3️⃣ Trip & Route Analysis**
-Evaluates trip-level and route-level performance to find optimization opportunities.
+**Purpose:**  
+Evaluate trip patterns and route profitability.
 
-**Key Insights**
-- Trips per route
-- On-time vs delayed deliveries
-- Most profitable routes
-- Distance trends and route efficiency
+**Key Insights:**  
+- Trips per route  
+- On-time vs delayed trips  
+- Most profitable routes  
+- Distance coverage
+
+**Visuals:**  
+Route map • Heatmap • Bar charts • Route summary table
 
 ---
 
 ### **4️⃣ Revenue & Cost Analysis**
-Breaks down financial performance across multiple cost and revenue streams.
+**Purpose:**  
+Understand financial performance and cost distribution.
 
-**Key Insights**
-- Revenue per trip/route
-- Fuel, maintenance, and operational costs
-- Profitability matrix
-- Monthly revenue and cost trends
+**Key Insights:**  
+- Revenue per trip  
+- Fuel, maintenance, and operational costs  
+- Profitability by route/vehicle  
+- Monthly revenue trends
+
+**Visuals:**  
+Revenue vs cost comparison • Matrix table • Trend line • KPI cards
 
 ---
 
 ### **5️⃣ Fuel Consumption Dashboard**
-Monitors fuel usage, cost trends, and vehicle-level efficiency.
+**Purpose:**  
+Track fuel usage and identify efficiency opportunities.
 
-**Key Insights**
-- Fuel purchased vs consumed
-- Fuel cost trend
-- Vehicle-wise consumption and efficiency
-- Cost vs consumption comparison
+**Key Insights:**  
+- Fuel purchased vs consumed  
+- Fuel cost trend  
+- Vehicle-wise fuel efficiency
+
+**Visuals:**  
+Gauge charts • Trend charts • Fuel summary table
 
 ---
 
 ### **6️⃣ Maintenance & Service Logs**
-Tracks vehicle health, service cycles, and maintenance costs.
+**Purpose:**  
+Monitor service activities and maintenance expenses.
 
-**Key Insights**
-- Service alerts and schedules
-- Maintenance cost analysis
-- Breakdown frequency
-- Maintenance trend line
+**Key Insights:**  
+- Upcoming service alerts  
+- Maintenance cost summary  
+- Breakdown and repair frequency
 
----
-
-### **7️⃣ Executive KPI Summary**
-A consolidated snapshot for leadership and decision-makers.
-
-**Key Insights**
-- Key business KPIs (revenue, trips, efficiency)
-- Monthly performance comparison
-- Highlighted growth/decline indicators
-- High-level summary scorecards
+**Visuals:**  
+Service logs table • Cost charts • Trend lines
 
 ---
 
+### **7️⃣ KPI Summary / Executive View**
+**Purpose:**  
+Provide leadership with a condensed view of overall performance.
+
+**Key Insights:**  
+- Top KPIs (trips, revenue, efficiency, costs)  
+- Month-over-month comparison  
+- Quick performance indicators
+
+**Visuals:**  
+KPI cards • Sparkline trends • Executive summary tiles
+
+---
