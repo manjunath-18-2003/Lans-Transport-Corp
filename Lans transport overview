@@ -1,1 +1,83 @@
+## 📄 Report Pages Overview
+
+Below is a detailed overview of each page included in the **Lans Transport Corp Power BI Dashboard**.
+
+---
+
+### **1️⃣ Overview Dashboard**
+Provides a high-level summary of essential transport KPIs.
+
+**Key Insights**
+- Total trips and trip status
+- Fleet availability overview
+- Revenue, expenses, and profitability
+- Monthly trend analysis
+
+---
+
+### **2️⃣ Fleet Performance**
+Analyzes vehicle-wise operational efficiency.
+
+**Key Insights**
+- Vehicle utilization rate
+- Fuel efficiency (km/l)
+- Maintenance frequency
+- Downtime hours
+
+---
+
+### **3️⃣ Trip & Route Analysis**
+Evaluates trip-level and route-level performance to find optimization opportunities.
+
+**Key Insights**
+- Trips per route
+- On-time vs delayed deliveries
+- Most profitable routes
+- Distance trends and route efficiency
+
+---
+
+### **4️⃣ Revenue & Cost Analysis**
+Breaks down financial performance across multiple cost and revenue streams.
+
+**Key Insights**
+- Revenue per trip/route
+- Fuel, maintenance, and operational costs
+- Profitability matrix
+- Monthly revenue and cost trends
+
+---
+
+### **5️⃣ Fuel Consumption Dashboard**
+Monitors fuel usage, cost trends, and vehicle-level efficiency.
+
+**Key Insights**
+- Fuel purchased vs consumed
+- Fuel cost trend
+- Vehicle-wise consumption and efficiency
+- Cost vs consumption comparison
+
+---
+
+### **6️⃣ Maintenance & Service Logs**
+Tracks vehicle health, service cycles, and maintenance costs.
+
+**Key Insights**
+- Service alerts and schedules
+- Maintenance cost analysis
+- Breakdown frequency
+- Maintenance trend line
+
+---
+
+### **7️⃣ Executive KPI Summary**
+A consolidated snapshot for leadership and decision-makers.
+
+**Key Insights**
+- Key business KPIs (revenue, trips, efficiency)
+- Monthly performance comparison
+- Highlighted growth/decline indicators
+- High-level summary scorecards
+
+---
 
